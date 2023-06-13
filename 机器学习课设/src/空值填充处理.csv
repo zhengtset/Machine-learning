@@ -1,0 +1,6 @@
+,column_name,percent_missing
+amb,amb,0.08469252144496799
+amb_o,amb_o,0.0857798719342757
+income,income,0.4896701703515767
+mn_sat,mn_sat,0.6265555152833152
+expnum,expnum,0.7848254198381056
